@@ -1,5 +1,5 @@
-<h1 align="center">Felipe Viana ⚡</h1>
-<p align="center"><i>aka vianathecreator</i></p>
+<h1 align="center">Felipe Viana</h1>
+<p align="center"><i>vianathecreator</i></p>
 
 <p align="center">
   🧠 Explorando baixo nível + alto nível <br>
@@ -14,23 +14,9 @@ Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
 
 ---
 
-## 🚀 Stack atual
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux" />
-</p>
-
-<p align="center">
-  🧠 Assembly (MIPS) na prática
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vianathecreator&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianathecreator&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🚀 Tecnologias e Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=assembly,python" />
 </p>
 
 ---
@@ -50,7 +36,23 @@ Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
 * Testes e experimentos
 * Projetos pequenos evoluindo
 
+---
 
+## 📊 Estatísticas do GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 📈 Contribuições
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
+
+---
+
+## 📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/vianathecreator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-viana-a3b58a352/)
+
+---
 
 <!--
 **vianathecreator/vianathecreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
