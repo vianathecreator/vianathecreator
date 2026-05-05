@@ -38,11 +38,6 @@ Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
 
 ---
 
-## 📈 Contribuições
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vianathecreator&theme=github-dark)
-
----
-
 ## 📫 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/vianathecreator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-viana-a3b58a352/)
