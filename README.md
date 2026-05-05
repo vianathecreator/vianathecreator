@@ -38,11 +38,6 @@ Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vianathecreator&show_icons=true&theme=dark)
-
----
-
 ## 📈 Contribuições
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vianathecreator&theme=github-dark)
 
