@@ -16,7 +16,7 @@ Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
 
 ## 🚀 Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=python, html, css, assembly" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,assembly" />
 </p>
 
 ---
