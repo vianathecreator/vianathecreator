@@ -31,14 +31,6 @@
 
 ---
 
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vianathecreator&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/vianathecreator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-viana-a3b58a352/)
