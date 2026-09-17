@@ -1,23 +1,33 @@
 <h1 align="center">Felipe Viana</h1>
-<p align="center"><i>vianathecreator</i></p>
+<p align="center"><i>viana, the creator!</i></p>
 
 <p align="center">
-  🧠 Explorando baixo nível + alto nível <br>
-  🐍 Python | ⚙️ Assembly
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Zona Leste
 </p>
 
 ---
 
 ## 🧩 Sobre mim
 
-Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
-
+👨‍💻 Sou Felipe Viana, vulgo viana, the creator!
+💻 Estudante do segundo semestre de ADS na Fatec Zona Leste!
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,assembly" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,java,javascript,docker" />
 </p>
+
+---
+
+## ⚡ Atualmente
+
+- ☕ Aprendendo **Java**
+- 🐍 Desenvolvendo em **Python**
+- 🌐 Explorando **HTML, CSS e JavaScript**
+- 🗄️ Estudando **Banco de Dados**
+- 🚀 Criando projetos acadêmicos e pessoais
+- 🎨 Misturando tecnologia, design e criatividade
 
 ---
 
@@ -29,32 +39,8 @@ Olá, sou o Felipe, curso ADS na FATEC ZONA LESTE!
 
 ---
 
-## 🛠️ O que você vai encontrar aqui
-
-* Scripts em Python 🐍
-* Exercícios de Assembly ⚙️
-* Testes e experimentos
-* Projetos pequenos evoluindo
-
----
-
 ## 📫 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/vianathecreator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-viana-a3b58a352/)
 
 ---
-
-<!--
-**vianathecreator/vianathecreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
