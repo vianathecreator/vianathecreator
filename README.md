@@ -9,13 +9,13 @@
 
 ## 🧩 Sobre mim
 
-👨‍💻 Sou Felipe Viana, vulgo viana, the creator!
+👨‍💻 Sou Felipe Viana - viana, the creator!
 💻 Estudante do segundo semestre de ADS na Fatec Zona Leste!
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,java,javascript,docker" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,java,javascript,docker,Git" />
 </p>
 
 ---
